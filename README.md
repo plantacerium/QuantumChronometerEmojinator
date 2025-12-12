@@ -1,4 +1,4 @@
-## ⚛️ Quantum Chronometer Emojinator: Measuring Time in the Fabric of Spacetime
+# ⚛️ Quantum Chronometer Emojinator: Measuring Time in the Fabric of Spacetime
 
 Welcome to the **Quantum Chronometer**, an imaginative Python application built with PySide6 that abstracts the most profound concepts in quantum mechanics and general relativity into a playful, interactive timekeeping experience. Forget seconds; we measure time in the **fuzziness of superposition** and the **curvature of digital spacetime**\!
 
