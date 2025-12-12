@@ -50,6 +50,16 @@ In quantum mechanics, observation causes the probability wave function to collap
 
 -----
 
+## ⚡ Support
+<div align="center">
+
+**Made with ❤️ and ☕ by the Plantacerium**
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/plantacerium)
+
+⭐ **Star us on GitHub** if the script is useful to You! ⭐
+</div>
+
 ## 🚀 Getting Started (Firing Up the Chronometer)
 
 ### Prerequisites
@@ -88,3 +98,13 @@ python QuantumChronometer.py
 ### 📝 Note from the Developer
 
 This project is a high-level abstraction for conceptual learning and fun. It does not contain actual quantum computing or physics simulation, but it beautifully translates the *rules* of the quantum realm into GUI mechanics. Enjoy your journey outside of Newtonian time\!
+
+## ⚡ Support
+<div align="center">
+
+**Made with ❤️ and ☕ by the Plantacerium**
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/plantacerium)
+
+⭐ **Star us on GitHub** if the script is useful to You! ⭐
+</div>
