@@ -46,7 +46,7 @@ In quantum mechanics, observation causes the probability wave function to collap
 
 -----
 
-![Quantum Chronometer](./assets/quantum-chronometer.jpg)
+![Quantum Chronometer](./assets/quantum-chronometer-concept.jpg)
 
 -----
 
