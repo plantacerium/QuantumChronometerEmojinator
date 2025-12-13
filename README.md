@@ -95,7 +95,7 @@ Each unit has a symbol affecting time:
 Type 🕳️ to create a black hole unit with +0.5 extra distortion factor!
 
 ---
-
+## ⭐ UI Screenshot
 ![Quantum Chronometer](./assets/quantum-chronometer.jpg)
 
 ---
